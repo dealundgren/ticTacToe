@@ -1,0 +1,17 @@
+{
+  "name": "ticTacToe",
+  "version": "1.0.0",
+  "description": "ticTacToe js game",
+  "main": "ticTacToe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Lundgren",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
